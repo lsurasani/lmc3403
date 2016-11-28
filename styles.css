@@ -2,14 +2,8 @@ body {
     background-image: url("atlanta.jpg");
 }
 
-#center {
+#title {
     text-align: center;
-}
-
-#white {
     color: white;
-}
-
-#thin {
     font-weight: 200;
 }

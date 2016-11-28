@@ -5,3 +5,11 @@ body {
 #center {
     text-align: center;
 }
+
+#white {
+    color: white;
+}
+
+#thin {
+    font-weight: 200;
+}

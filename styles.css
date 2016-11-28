@@ -1,3 +1,7 @@
 body {
     background-image: url("atlanta.jpg");
 }
+
+#center {
+    text-align: center;
+}
